@@ -1,0 +1,15 @@
+Item,Amount Per Minute,Iron Ore,Copper Ore,Caterium Ore,Iron Ingot,Copper Ingot,Caterium Ingot,Wire,Cable,Screw,Quickwire,Crude Oil,Rubber,Plastic,Circuit Board,High-Speed Connecter,A.I. Limiter,Computer
+Iron Ingot,30,30,,,,,,,,,,,,,,,,
+Copper Ingot,30,,30,,,,,,,,,,,,,,,
+Caterium Ingot,15,,,60,,,,,,,,,,,,,,
+Wire,45,,,,,15,,,,,,,,,,,,
+Cable,15,,,,,,,30,,,,,,,,,,
+Screw,90,,,,15,,,,,,,,,,,,,
+Quickwire,90,,,,,15,7.5,,,,,,,,,,,
+Rubber,30,,,,,,,,,,,30,,,,,,
+Plastic,22.5,,,,,,,,,,,30,,,,,,
+Circuit Board,7.5,,,,,,,60,,,,,40,,,,,
+A.I. Limiter,5,,,,,,,,,,90,,,,5,,,
+High-Speed Connecter,2.5,,,,,,,,25,,100,,,15,,,,
+Computer,1.875,,,,,,,,22.5,112.5,,,,33.75,9.375,,,
+Super Computer,1.875,,,,,,,,,,,,,39.375,,5.625,3.75,3.75
